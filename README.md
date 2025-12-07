@@ -25,7 +25,7 @@ L’objectif est de combiner **IA Générative**, **vision médicale**, et **age
 - Base de documents indexés avec **pgvector**
 - Recherche sémantique (cosine similarity)
 - Réponses enrichies via LLM (open-source uniquement)
-- Agents orchestrés via LangGraph / LangChain
+- Agents orchestrés via LangGraph 
 
 ---
 
