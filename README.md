@@ -3,7 +3,7 @@
 Ce projet implémente un **assistant intelligent pour l’aide au diagnostic médical**, basé sur :
 - 🧩 **Architecture multi-agents**  
 - 🔍 **RAG (Retrieval Augmented Generation)**  
-- 👁️ **Deep Learning Vision (MobileNet + Grad-CAM)**  
+- 👁️ **Deep Learning Vision **  
 - 🗂️ **Base de données RAG avec pgvector**  
 - 🌐 **Interface utilisateur Streamlit**
 
@@ -45,5 +45,5 @@ Rôle :
 
 ---
 
-## 🗂️ Structure du projet
+
 
