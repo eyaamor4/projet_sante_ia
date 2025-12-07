@@ -1,0 +1,26 @@
+# Cybersécurité et protection des données en santé
+
+## Menaces principales
+- Ransomware ciblant les hôpitaux
+- Fuites de données patient
+- Intrusion via IoT médical
+- Attaques sur les serveurs PACS / DICOM
+
+## Conséquences
+- Arrêt des services critiques
+- Perte de dossiers médicaux
+- Risque vital pour les patients
+- Coût financier et réputationnel
+
+## Bonnes pratiques
+- Chiffrement des données (AES, TLS)
+- Authentification multifactorielle
+- Segmentation réseau
+- Sauvegarde régulière
+- Zero Trust Architecture
+
+## Cadres légaux
+- RGPD
+- HIPAA (US)
+- Politique d’hébergement HDS
+

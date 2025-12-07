@@ -1,0 +1,32 @@
+# Intelligence Artificielle en Santé
+
+## Applications de l’IA médicale
+- Analyse d’images médicales (radiologie, scanner, IRM)
+- Diagnostic assisté
+- Aide à la décision clinique
+- Chatbots médicaux
+- Analyse prédictive (risques, complications)
+- IA embarquée (Edge AI)
+
+## Avantages
+- Rapidité de traitement
+- Détection de signaux faibles
+- Standardisation et réduction des erreurs humaines
+
+## Risques
+- Biais algorithmiques
+- Mauvaise interprétation
+- Surconfiance dans les modèles
+
+## Explicabilité (XAI)
+L’explicabilité est essentielle pour comprendre pourquoi un modèle propose un certain diagnostic.
+
+Techniques :
+- Grad-CAM
+- LIME
+- SHAP
+
+## Réglementation
+- RGPD
+- ISO/IEC 62304
+- MDR 2017/745 (Medical Device Regulation)

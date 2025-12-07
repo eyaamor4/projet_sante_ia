@@ -1,0 +1,26 @@
+# Introduction à la Santé Numérique
+
+## Définition
+La santé numérique regroupe l'ensemble des technologies qui améliorent la prévention, le diagnostic, le traitement et le suivi des patients grâce au numérique.
+
+## Composants principaux
+- Télémédecine
+- Télésurveillance
+- Dossier Médical Partagé (DMP)
+- Objets connectés (IoT santé)
+- Capteurs biomédicaux
+- Portails patients
+- Applications mobiles certifiées
+
+## Objectifs
+- Faciliter l’accès aux soins
+- Réduire les délais
+- Améliorer la qualité du suivi médical
+- Optimiser les flux hospitaliers
+- Personnaliser les soins
+
+## Défis
+- Sécurité des données
+- Interopérabilité
+- Fiabilité des algorithmes
+- Acceptation par les patients et professionnels

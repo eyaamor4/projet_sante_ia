@@ -1,0 +1,26 @@
+# Hôpitaux intelligents et Smart Healthcare
+
+## Technologies clés
+- IoT médical
+- Réseaux 5G/6G
+- Monitoring en temps réel
+- Systèmes de gestion automatisés
+- Edge Computing
+
+## Cas d’usage
+- Surveillance continue des patients
+- Gestion automatisée des lits
+- Robots logistiques
+- Bloc opératoire intelligent
+- Télémédecine augmentée
+
+## Avantages
+- Réduction des erreurs
+- Optimisation du temps médical
+- Réactivité accrue
+- Diminution des coûts
+
+## Limites
+- Investissement initial élevé
+- Manque de standardisation
+- Dépendance technologique
